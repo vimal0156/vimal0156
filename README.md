@@ -3,6 +3,8 @@
 <!-- Hero Section -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=280&section=header&text=VIMAL%20DHAMA&fontSize=60&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=32&desc=QUANTITATIVE%20FINANCE%20WIZARD&descSize=16&descAlign=50&descAlignY=55" width="100%"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=32&duration=2500&pause=800&color=4A4A8C&center=true&vCenter=true&width=800&height=60&lines=🎯+QUANTITATIVE+FINANCE+ANALYST+|+🤖+AI+%26+ML+ENGINEER+|+📊+ALGORITHMIC+TRADING" />
+
 ## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vimal0156&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS)
