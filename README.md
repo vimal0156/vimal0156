@@ -8,7 +8,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vimal0156&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS)
 
 </div>
-
 ---
 
 <!-- Identity & Status Cards using GitHub-compatible tables -->
@@ -133,139 +132,83 @@
 ---
 
 <!-- Complete Project Portfolio - All 5 Projects -->
-<div align="center">
+<h2 align="center">💼 Project Portfolio</h2>
+<p align="center">Complete Mission-Critical Financial Technology Solutions</p>
 
-## 💼 **PROJECT PORTFOLIO**
-*Complete Mission-Critical Financial Technology Solutions*
+<div style="display:flex; justify-content:space-around; flex-wrap:wrap; gap:20px; margin-top:20px;">
+
+  <!-- AlgoUltron -->
+  <div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
+    <h3>🚀 <a href="https://github.com/vimal0156/algo-ultron-trading">AlgoUltron</a></h3>
+    <p>Advanced Algorithmic Trading Platform</p>
+    <ul style="list-style:none; padding-left:0;">
+      <li>Automation Gain 40%</li>
+      <li>Alpha +15%</li>
+      <li>Risk Monitoring</li>
+      <li>Multi-strategy Deployment</li>
+      <li>TradingView Integration</li>
+    </ul>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=algo-ultron-trading&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+  </div>
+
+  <!-- AlgoStockGPT-AI -->
+  <div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
+    <h3>🧠 <a href="https://github.com/vimal0156/AlgoStockGPT-AI">AlgoStockGPT-AI</a></h3>
+    <p>AI-Powered Financial Oracle</p>
+    <ul style="list-style:none; padding-left:0;">
+      <li>Sentiment Analysis</li>
+      <li>Real-Time Predictions</li>
+      <li>GPT-4 Integration</li>
+      <li>Predictive Market Modeling</li>
+      <li>Economic Indicator Integration</li>
+    </ul>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=AlgoStockGPT-AI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+  </div>
+
+  <!-- BlockFinAI -->
+  <div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
+    <h3>⚡ <a href="https://github.com/vimal0156/BlockFinAI">BlockFinAI</a></h3>
+    <p>DeFi Analytics Powerhouse</p>
+    <ul style="list-style:none; padding-left:0;">
+      <li>Yield Optimization</li>
+      <li>Cross-Chain Insights</li>
+      <li>Smart Contract Auditing</li>
+      <li>Token Economics Modeling</li>
+      <li>ML-Powered Risk Scoring</li>
+    </ul>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=BlockFinAI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+  </div>
+
+  <!-- Edore Luxe Webshop -->
+  <div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
+    <h3>🛍️ <a href="https://github.com/vimal0156/edore-luxe-webshop">Edore Luxe Webshop</a></h3>
+    <p>Premium E-commerce Innovation</p>
+    <ul style="list-style:none; padding-left:0;">
+      <li>AI-Powered Recommendations</li>
+      <li>Real-Time Inventory Management</li>
+      <li>Advanced Payment Gateway</li>
+      <li>Analytics Dashboard</li>
+      <li>React + Node.js Architecture</li>
+    </ul>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=edore-luxe-webshop&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+  </div>
+
+  <!-- GitHub Copilot Codespaces -->
+  <div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
+    <h3>💻 <a href="https://github.com/vimal0156/skills-copilot-codespaces-vscode">GitHub Copilot Codespaces</a></h3>
+    <p>Advanced Development Environment</p>
+    <ul style="list-style:none; padding-left:0;">
+      <li>AI-Assisted Programming</li>
+      <li>Cloud-Native Dev</li>
+      <li>CI/CD Integration</li>
+      <li>Advanced Git Automation</li>
+      <li>Collaborative Coding</li>
+    </ul>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=skills-copilot-codespaces-vscode&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+  </div>
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 🚀 **[AlgoUltron](https://github.com/vimal0156/algo-ultron-trading)**
-![AlgoUltron](https://img.shields.io/badge/Status-🔥%20PRODUCTION-brightgreen?style=for-the-badge)
-
-**Advanced Algorithmic Trading Platform**
-
-```yaml
-impact:
-  automation_gain: "40% ↓ manual trades"
-  sharpe_improvement: "7-10% ↑ baseline" 
-  alpha_generation: "15%+ consistent"
-  risk_management: "Real-time monitoring"
-
-features:
-  - Multi-strategy deployment
-  - Advanced risk assessment  
-  - TradingView integration
-  - Portfolio optimization
-```
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=algo-ultron-trading&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
-
-</td>
-<td width="33%" align="center">
-
-### 🧠 **[AlgoStockGPT-AI](https://github.com/vimal0156/AlgoStockGPT-AI)**
-![AlgoStockGPT](https://img.shields.io/badge/Status-🎯%20ALPHA%20GEN-gold?style=for-the-badge)
-
-**AI-Powered Financial Oracle**
-
-```yaml
-achievements:
-  accuracy_boost: "+12% vs traditional"
-  ai_integration: "GPT-4 + Custom Models"
-  processing: "Real-time analysis"
-  capabilities: "Multi-modal insights"
-
-features:
-  - Sentiment analysis engine
-  - Predictive market modeling
-  - Risk-adjusted allocation
-  - Economic indicator integration
-```
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=AlgoStockGPT-AI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
-
-</td>
-<td width="33%" align="center">
-
-### ⚡ **[BlockFinAI](https://github.com/vimal0156/BlockFinAI)**
-![BlockFinAI](https://img.shields.io/badge/Status-⛓️%20BLOCKCHAIN-purple?style=for-the-badge)
-
-**DeFi Analytics Powerhouse**
-
-```yaml
-capabilities:
-  defi_protocols: "50+ supported"
-  yield_optimization: "Smart routing"
-  risk_scoring: "ML-powered analysis"
-  liquidity_analysis: "Cross-chain insights"
-
-features:
-  - Yield farming optimization
-  - Smart contract auditing
-  - Token economics modeling
-  - Cross-chain analytics
-```
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=BlockFinAI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🛍️ **[Edore Luxe Webshop](https://github.com/vimal0156/edore-luxe-webshop)**
-![Edore](https://img.shields.io/badge/Status-🛒%20COMMERCE-orange?style=for-the-badge)
-
-**Premium E-commerce Innovation**
-
-```yaml
-tech_architecture:
-  frontend: "React.js + Advanced UI/UX"
-  backend: "Node.js + Express.js"
-  database: "MongoDB + Redis Cache"
-  ai_features: "Recommendation Engine"
-
-business_features:
-  - AI-powered product recommendations
-  - Advanced payment gateway integration
-  - Real-time inventory management  
-  - Comprehensive analytics dashboard
-```
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=edore-luxe-webshop&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
-
-</td>
-<td width="50%" align="center">
-
-### 💻 **[GitHub Copilot Codespaces](https://github.com/vimal0156/skills-copilot-codespaces-vscode)**
-![Copilot](https://img.shields.io/badge/Status-⚡%20DEV%20MAX-blue?style=for-the-badge)
-
-**Advanced Development Environment**
-
-```yaml
-development_stack:
-  environment: "GitHub Codespaces Cloud"
-  ai_assistant: "GitHub Copilot"
-  capabilities: "Advanced code generation"
-  integration: "DevOps + CI/CD pipelines"
-
-dev_skills:
-  - AI-assisted programming workflows
-  - Cloud-native development practices
-  - Collaborative coding environments  
-  - Advanced Git and automation
-```
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=skills-copilot-codespaces-vscode&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
-
-</td>
-</tr>
-</table>
 
 ---
 
