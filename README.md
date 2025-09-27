@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Hero Section -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24&height=280&section=header&text=VIMAL%20DHAMA&fontSize=60&fontColor=ffffff&animation=blinking&fontAlign=50&fontAlignY=32&desc=QUANTITATIVE%20FINANCE%20WIZARD&descSize=16&descAlign=50&descAlignY=55" width="100%"/>
+<!-- Fixed Animated Header with Better Sizing -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIMAL%20DHAMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=QUANTITATIVE%20FINANCE%20WIZARD&descSize=14&descAlign=50&descAlignY=65" width="100%"/>
 
 ## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
 
