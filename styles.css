@@ -1,0 +1,64 @@
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    color: #333;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    padding: 20px;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.progress {
+    background: #f3f3f3;
+    border-radius: 5px;
+    overflow: hidden;
+    margin: 20px 0;
+}
+
+.progress-bar {
+    height: 20px;
+    background: #0072ff;
+    width: 0;
+    animation: load 2s forwards;
+}
+
+@keyframes load {
+    from { width: 0; }
+    to { width: 70%; }
+}
+
+@media (max-width: 600px) {
+    .container {
+        width: 95%;
+    }
+
+    .card {
+        margin: 10px;
+    }
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+p {
+    margin: 10px 0;
+}
+
+/* Additional styles for specific elements */
