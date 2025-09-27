@@ -8,6 +8,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vimal0156&style=for-the-badge&color=4A4A8C&label=NEURAL+CONNECTIONS)
 
 </div>
+
 ---
 
 <!-- Identity & Status Cards using GitHub-compatible tables -->
@@ -130,6 +131,7 @@
 </table>
 
 ---
+
 <!-- Complete Project Portfolio - All 5 Projects -->
 <div align="center">
 
