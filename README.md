@@ -130,19 +130,18 @@
 </table>
 
 ---
-
 <!-- Complete Project Portfolio - Table with Card-Style Projects -->
 <div align="center">
-  ## 💼 **PROJECT PORTFOLIO**
-  *Complete Mission-Critical Financial Technology Solutions*
+  <h2>💼 PROJECT PORTFOLIO</h2>
+  <p>Complete Mission-Critical Financial Technology Solutions</p>
 </div>
 
-<div style="overflow-x:auto; scroll-behavior:smooth;">
-  <table width="100%" cellspacing="20">
+<div style="overflow-x:auto; scroll-behavior:smooth; padding:10px 0;">
+  <table style="width:100%; border-collapse:separate; border-spacing:20px;">
     <tr>
 
       <!-- AlgoUltron -->
-      <td width="20%" align="center">
+      <td style="width:20%; vertical-align:top;">
         <div style="border-radius:15px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); text-align:center;">
           <h3>🚀 <a href="https://github.com/vimal0156/algo-ultron-trading">AlgoUltron</a></h3>
           <p>Advanced Algorithmic Trading Platform</p>
@@ -153,12 +152,12 @@
             <li>Multi-strategy Deployment</li>
             <li>TradingView Integration</li>
           </ul>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=algo-ultron-trading&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px;" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=algo-ultron-trading&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px; margin-top:10px;" />
         </div>
       </td>
 
       <!-- AlgoStockGPT-AI -->
-      <td width="20%" align="center">
+      <td style="width:20%; vertical-align:top;">
         <div style="border-radius:15px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); text-align:center;">
           <h3>🧠 <a href="https://github.com/vimal0156/AlgoStockGPT-AI">AlgoStockGPT-AI</a></h3>
           <p>AI-Powered Financial Oracle</p>
@@ -169,12 +168,12 @@
             <li>Predictive Market Modeling</li>
             <li>Economic Indicator Integration</li>
           </ul>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=AlgoStockGPT-AI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px;" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=AlgoStockGPT-AI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px; margin-top:10px;" />
         </div>
       </td>
 
       <!-- BlockFinAI -->
-      <td width="20%" align="center">
+      <td style="width:20%; vertical-align:top;">
         <div style="border-radius:15px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); text-align:center;">
           <h3>⚡ <a href="https://github.com/vimal0156/BlockFinAI">BlockFinAI</a></h3>
           <p>DeFi Analytics Powerhouse</p>
@@ -185,12 +184,12 @@
             <li>Token Economics Modeling</li>
             <li>ML-Powered Risk Scoring</li>
           </ul>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=BlockFinAI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px;" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=BlockFinAI&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px; margin-top:10px;" />
         </div>
       </td>
 
       <!-- Edore Luxe Webshop -->
-      <td width="20%" align="center">
+      <td style="width:20%; vertical-align:top;">
         <div style="border-radius:15px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); text-align:center;">
           <h3>🛍️ <a href="https://github.com/vimal0156/edore-luxe-webshop">Edore Luxe Webshop</a></h3>
           <p>Premium E-commerce Innovation</p>
@@ -201,12 +200,12 @@
             <li>Analytics Dashboard</li>
             <li>React + Node.js Architecture</li>
           </ul>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=edore-luxe-webshop&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px;" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=edore-luxe-webshop&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px; margin-top:10px;" />
         </div>
       </td>
 
       <!-- GitHub Copilot Codespaces -->
-      <td width="20%" align="center">
+      <td style="width:20%; vertical-align:top;">
         <div style="border-radius:15px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); text-align:center;">
           <h3>💻 <a href="https://github.com/vimal0156/skills-copilot-codespaces-vscode">GitHub Copilot Codespaces</a></h3>
           <p>Advanced Development Environment</p>
@@ -217,14 +216,13 @@
             <li>Advanced Git Automation</li>
             <li>Collaborative Coding</li>
           </ul>
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=skills-copilot-codespaces-vscode&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px;" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=skills-copilot-codespaces-vscode&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" style="width:100%; border-radius:10px; margin-top:10px;" />
         </div>
       </td>
 
     </tr>
   </table>
 </div>
-
 
 ---
 
