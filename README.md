@@ -130,41 +130,7 @@
 </table>
 
 ---
-<!-- Project Portfolio -->
-<h2 align="center">💼 Project Portfolio</h2>
-<div style="display:flex; justify-content:space-around; flex-wrap:wrap; gap:20px; margin-top:20px;">
-
-<div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
-<h3>🚀 <a href="https://github.com/vimal0156/algo-ultron-trading">AlgoUltron</a></h3>
-<p>Advanced Algorithmic Trading</p>
-<ul style="list-style:none; padding-left:0;">
-<li>Alpha +15%</li>
-<li>Automation Gain 40%</li>
-<li>Risk Monitoring</li>
-</ul>
-</div>
-
-<div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
-<h3>🧠 <a href="https://github.com/vimal0156/AlgoStockGPT-AI">AlgoStockGPT-AI</a></h3>
-<p>AI-Powered Market Oracle</p>
-<ul style="list-style:none; padding-left:0;">
-<li>Sentiment Analysis</li>
-<li>Real-Time Predictions</li>
-<li>GPT-4 Integration</li>
-</ul>
-</div>
-
-<div style="border-radius:15px; width:300px; background:#ffffff; padding:15px; box-shadow:0 6px 18px rgba(0,0,0,0.15); transition: transform 0.3s; text-align:center;">
-<h3>⚡ <a href="https://github.com/vimal0156/BlockFinAI">BlockFinAI</a></h3>
-<p>DeFi Analytics Powerhouse</p>
-<ul style="list-style:none; padding-left:0;">
-<li>Yield Optimization</li>
-<li>Cross-Chain Insights</li>
-<li>Smart Contract Auditing</li>
-</ul>
-</div>
-
-</div> use this code & turn this code into similar to the <!-- Complete Project Portfolio - All 5 Projects -->
+<!-- Complete Project Portfolio - All 5 Projects -->
 <div align="center">
 
 ## 💼 **PROJECT PORTFOLIO**
