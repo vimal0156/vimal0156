@@ -216,30 +216,7 @@ features:
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
 
-### 🛍️ **[Edore Luxe Webshop](https://github.com/vimal0156/edore-luxe-webshop)**
-![Edore](https://img.shields.io/badge/Status-🛒%20COMMERCE-orange?style=for-the-badge)
-
-**Premium E-commerce Innovation**
-
-```yaml
-tech_architecture:
-  frontend: "React.js + Advanced UI/UX"
-  backend: "Node.js + Express.js"
-  database: "MongoDB + Redis Cache"
-  ai_features: "Recommendation Engine"
-
-business_features:
-  - AI-powered product recommendations
-  - Advanced payment gateway integration
-  - Real-time inventory management  
-  - Comprehensive analytics dashboard
-```
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=edore-luxe-webshop&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
-
-</td>
 <td width="50%" align="center">
 
 ### 💻 **[GitHub Copilot Codespaces](https://github.com/vimal0156/skills-copilot-codespaces-vscode)**
