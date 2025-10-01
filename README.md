@@ -131,6 +131,89 @@
 </table>
 
 ---
+---
+
+<div align="center">
+
+## 🎓 Currently Exploring
+<em>Bridging decision‑making under uncertainty, scalable optimization, and physics‑informed ML — with a dash of quantum.</em>
+
+</div>
+
+<table width="100%">
+  <tr>
+    <th>Topic</th>
+    <th>Focus</th>
+    <th>Tools / Frameworks</th>
+  </tr>
+  <tr>
+    <td>🤖 Reinforcement Learning (RL)</td>
+    <td>Policy optimization, exploration–exploitation, model‑based & safe/offline RL</td>
+    <td>PyTorch, Gymnasium, RLlib</td>
+  </tr>
+  <tr>
+    <td>📐 Measure Theory & Advanced Probability</td>
+    <td>Foundations for stochastic processes, convergence, filtrations</td>
+    <td>Billingsley, Kallenberg (texts), custom notes</td>
+  </tr>
+  <tr>
+    <td>🌊 Fourier Neural Operators (FNOs)</td>
+    <td>Operator learning for PDEs, generalization across domains</td>
+    <td>PyTorch, FNO implementations, NVIDIA Modulus</td>
+  </tr>
+  <tr>
+    <td>⚛️ Quantum Computing</td>
+    <td>Finance, optimization, and simulation algorithms (VQE/QAOA)</td>
+    <td>Qiskit, Qiskit Finance</td>
+  </tr>
+  <tr>
+    <td>🎯 Bayesian & Probabilistic ML</td>
+    <td>Posterior inference, UQ, hierarchical modeling (VI vs MCMC)</td>
+    <td>PyMC, NumPyro, Pyro</td>
+  </tr>
+  <tr>
+    <td>🧩 Mixed‑Integer Programming (MIP)</td>
+    <td>Clustering, scheduling, portfolio optimization; decomposition & cuts</td>
+    <td>Pyomo, OR‑Tools, Gurobi/CPLEX</td>
+  </tr>
+  <tr>
+    <td>🚀 High‑Performance Computing (HPC)</td>
+    <td>Parallel simulation/optimization, memory‑aware acceleration</td>
+    <td>MPI, Dask, CUDA, JAX</td>
+  </tr>
+  <tr>
+    <td>🧮 Numerical Linear Algebra</td>
+    <td>Krylov methods, preconditioning, low‑rank structure</td>
+    <td>SciPy, PETSc, cuBLAS</td>
+  </tr>
+  <tr>
+    <td>🧭 Convex & Non‑Convex Optimization</td>
+    <td>Convex relaxations, first‑order methods, metaheuristics</td>
+    <td>CVXPY, NLopt, Optuna</td>
+  </tr>
+  <tr>
+    <td>📈 Stochastic Calculus</td>
+    <td>SDEs, Itô calculus, pricing/risk for quant finance</td>
+    <td>SDE solvers, Monte Carlo (GBM/Heston)</td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Quick notes</b></summary>
+
+- RL: from value‑based to policy‑gradient; emphasis on safe/offline RL for real constraints  
+- Measure theory: martingales, stopping times, stochastic integration  
+- FNOs: fast PDE surrogates via operator learning  
+- Quantum: encode finance/optimization as Ising problems; variational solvers  
+- Bayesian ML: priors, calibration, VI–MCMC trade‑offs  
+- MIP: cutting planes + hybrid MILP/heuristics for scale  
+- HPC: profiling, GPU/TPU acceleration for large workloads  
+- LinAlg: CG/GMRES, spectral properties, preconditioners  
+- Optimization: relaxations for non‑convexity; metaheuristics for combinatorics  
+- Stochastic calculus: risk‑neutral pricing, Greeks, variance reduction
+</details>
+
+---
 
 <!-- Complete Project Portfolio - All 5 Projects -->
 <div align="center">
