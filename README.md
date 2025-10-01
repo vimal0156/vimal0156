@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Fixed Animated Header with Better Sizing -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIMAL%20DHAMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35&desc=QUANTITATIVE%20FINANCE%20WIZARD&descSize=14&descAlign=50&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIMAL%20DHAMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
 
 ## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
 
@@ -216,7 +216,6 @@ features:
 </td>
 </tr>
 <tr>
-
 <td width="50%" align="center">
 
 ### 💻 **[GitHub Copilot Codespaces](https://github.com/vimal0156/skills-copilot-codespaces-vscode)**
@@ -239,6 +238,29 @@ dev_skills:
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=skills-copilot-codespaces-vscode&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+
+</td>
+<td width="50%" align="center">
+
+### 🧠 **[Ruaroa AI](https://github.com/vimal0156/ruaroa-ai)**
+![RuaroaAI](https://img.shields.io/badge/Status-🚀%20INNOVATION-green?style=for-the-badge)
+
+**Next-Gen AI Solutions Platform**
+
+```yaml
+highlights:
+  ai_models: "Cutting-edge architectures"
+  deployment: "Fast, scalable, secure"
+  applications: "Finance, NLP, Vision"
+  impact: "Human-centric intelligence"
+features:
+  - Real-time analytics
+  - Custom AI model training
+  - Multi-domain support
+  - API integrations
+```
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=ruaroa-ai&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
 
 </td>
 </tr>
@@ -284,17 +306,17 @@ dev_skills:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimal0156&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c&custom_title=🚀%20NEURAL%20NETWORK%20STATUS"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimal0156&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal0156&layout=compact&langs_count=10&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&custom_title=🎯%20CODE%20DISTRIBUTION"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal0156&layout=compact&langs_count=10&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal0156&theme=vue&hide_border=true&background=f9f9fb&stroke=4a4a8c&ring=4a4a8c&fire=FF6B35&currStreakLabel=4a4a8c&sideLabels=333333&currStreakNum=4a4a8c&dates=333333" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal0156&theme=vue&hide_border=true&background=f9f9fb&stroke=4a4a8c&ring=4a4a8c&fire=FF6B35&currStreakLabel=4a4a8c&sideLabels=333333&sideNums=333333"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal0156&bg_color=f9f9fb&color=4a4a8c&line=4a4a8c&point=333333&area=true&hide_border=true&custom_title=⚡%20NEURAL%20ACTIVITY%20PATTERNS%20⚡" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal0156&bg_color=f9f9fb&color=4a4a8c&line=4a4a8c&point=333333&area=true&hide_border=true&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH%20⚡" />
 
 </div>
 
@@ -348,6 +370,6 @@ dev_skills:
 **⚡ SYSTEM STATUS: ONLINE AND OPTIMIZED FOR COLLABORATION ⚡**  
 **🚀 NEURAL NETWORKS ACTIVE - BUILDING THE FUTURE OF QUANTITATIVE FINANCE 🚀**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=3000&pause=1000&color=4A4A8C&center=true&vCenter=true&width=700&lines=⭐+Star+repositories+to+boost+neural+connections;🤝+Collaboration+protocols%3A+Always+active;💡+Innovation+mode%3A+Permanent+activation;🚀+Thank+you+for+visiting+the+command+center!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=3000&pause=1000&color=4A4A8C&center=true&vCenter=true&width=700&lines=⭐+Star+repositories+to+boost+my+system+performance!+⭐;💡+Open+to+collaborate+on+AI,+Quant,+and+Finance+projects!+💡;🧠+Always+learning+and+innovating!+🧠)](https://github.com/vimal0156)
 
 </div>
