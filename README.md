@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Fixed Animated Header with Better Sizing -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIMAL%20DHAMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlign=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=VIMAL%20DHAMA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Quantitative%20Finance%20%7C%20AI%20%7C%20Algorithmic%20Trading&descAlignY=52&descSize=18" width="100%"/>
 
 ## 🎯 Quantitative Finance Analyst | 🤖 AI & ML Engineer | 📊 Algo Trading Specialist
 
@@ -215,7 +215,7 @@
 
 ---
 
-<!-- Complete Project Portfolio - All 5 Projects -->
+<!-- Complete Project Portfolio - All 8 Projects -->
 <div align="center">
 
 ## 💼 **PROJECT PORTFOLIO**
@@ -299,7 +299,7 @@ features:
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### 💻 **[GitHub Copilot Codespaces](https://github.com/vimal0156/skills-copilot-codespaces-vscode)**
 ![Copilot](https://img.shields.io/badge/Status-⚡%20DEV%20MAX-blue?style=for-the-badge)
@@ -323,7 +323,7 @@ dev_skills:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=skills-copilot-codespaces-vscode&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 
 ### 🧠 **[Ruaroa AI](https://github.com/vimal0156/ruaroa-ai)**
 ![RuaroaAI](https://img.shields.io/badge/Status-🚀%20INNOVATION-green?style=for-the-badge)
@@ -344,6 +344,83 @@ features:
 ```
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=ruaroa-ai&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+
+</td>
+<td width="33%" align="center">
+
+### ⚛️ **[QuantumTrade-Nexus](https://github.com/vimal0156/QuantumTrade-Nexus)**
+![QuantumTrade](https://img.shields.io/badge/Status-🔬%20QUANTUM-cyan?style=for-the-badge)
+
+**Advanced Trading Intelligence Platform**
+
+```yaml
+capabilities:
+  indicators: "15+ technical indicators"
+  strategies: "Algorithmic trading systems"
+  intelligence: "Real-time market analysis"
+  deployment: "Streamlit web interface"
+
+features:
+  - Comprehensive financial analysis
+  - Multi-indicator strategies
+  - Live market intelligence
+  - Interactive visualizations
+```
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=QuantumTrade-Nexus&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
+
+### 🫀 **[ECG-Arrhythmia-Detection-IOS-app](https://github.com/vimal0156/ECG-Arrhythmia-Detection-IOS-app)**
+![ECG](https://img.shields.io/badge/Status-❤️%20HEALTH%20AI-red?style=for-the-badge)
+
+**Medical AI iOS Application**
+
+```yaml
+innovation:
+  domain: "Healthcare + AI"
+  platform: "iOS Native"
+  ml_models: "Deep learning detection"
+  impact: "Life-saving diagnostics"
+
+features:
+  - Real-time ECG analysis
+  - Arrhythmia classification
+  - Mobile edge computing
+  - Clinical-grade accuracy
+```
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=ECG-Arrhythmia-Detection-IOS-app&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+
+</td>
+<td width="33%" align="center">
+
+### 📊 **[Cardinality-Constrained-Portfolio-Selection](https://github.com/vimal0156/Cardinality-Constrained-Portfolio-Selection)**
+![Portfolio](https://img.shields.io/badge/Status-💎%20OPTIMIZATION-orange?style=for-the-badge)
+
+**Advanced Portfolio Optimization**
+
+```yaml
+methodology:
+  approach: "Cardinality constraints"
+  optimization: "Mixed-integer programming"
+  objective: "Risk-adjusted returns"
+  constraints: "Real-world limitations"
+
+features:
+  - Integer programming solvers
+  - Efficient frontier analysis
+  - Transaction cost modeling
+  - Asset allocation strategies
+```
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vimal0156&repo=Cardinality-Constrained-Portfolio-Selection&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+
+</td>
+<td width="33%" align="center">
 
 </td>
 </tr>
@@ -389,17 +466,17 @@ features:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimal0156&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vimal0156&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal0156&layout=compact&langs_count=10&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal0156&layout=compact&langs_count=10&theme=vue&hide_border=true&bg_color=f9f9fb&title_color=4a4a8c&text_color=333333&icon_color=4a4a8c"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal0156&theme=vue&hide_border=true&background=f9f9fb&stroke=4a4a8c&ring=4a4a8c&fire=FF6B35&currStreakLabel=4a4a8c&sideLabels=333333&sideNums=333333"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimal0156&theme=vue&hide_border=true&background=f9f9fb&stroke=4a4a8c&ring=4a4a8c&fire=FF6B35&currStreakLabel=4a4a8c&sideLabels=333333"/>
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal0156&bg_color=f9f9fb&color=4a4a8c&line=4a4a8c&point=333333&area=true&hide_border=true&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH%20⚡" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vimal0156&bg_color=f9f9fb&color=4a4a8c&line=4a4a8c&point=333333&area=true&hide_border=true&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH"/>
 
 </div>
 
@@ -453,6 +530,6 @@ features:
 **⚡ SYSTEM STATUS: ONLINE AND OPTIMIZED FOR COLLABORATION ⚡**  
 **🚀 NEURAL NETWORKS ACTIVE - BUILDING THE FUTURE OF QUANTITATIVE FINANCE 🚀**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=3000&pause=1000&color=4A4A8C&center=true&vCenter=true&width=700&lines=⭐+Star+repositories+to+boost+my+system+performance!+⭐;💡+Open+to+collaborate+on+AI,+Quant,+and+Finance+projects!+💡;🧠+Always+learning+and+innovating!+🧠)](https://github.com/vimal0156)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=3000&pause=1000&color=4A4A8C&center=true&vCenter=true&width=700&lines=⭐+Star+repositories+to+boost+collaborative+innovation;💡+Transforming+financial+markets+through+quantitative+excellence;🤖+Leveraging+AI+for+next-generation+trading+systems;🔬+Pioneering+research+in+algorithmic+finance)](https://git.io/typing-svg)
 
 </div>
